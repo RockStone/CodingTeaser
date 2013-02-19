@@ -1,8 +1,8 @@
 Disclaimer
 ======
-Please be advised this program is displayed for study purpose ONLY.
+Please be advised the programs represented here are for study purposes SOLELY.
 
 
-You may NOT use it for job application or other commercial interests.
+You may NOT use any of the program for job application or other commercial interests.
 
-Distribution of this program is NOT allowed without the author's expressive consent.
+Distribution of the programs is NOT allowed without the author's expressive consent.
