@@ -1,5 +1,11 @@
 #!/usr/bin/python
-
+"""
+Discount Offer program to find maximum Suitability Score for Product-Customer pairs.
+Reference: http://www.public.iastate.edu/~ddoty/HungarianAlgorithm.html
+Disclaimer: Please be advised this program is displayed for study purpose ONLY.
+            You may NOT use it for job application or other commercial interests.
+			Distribution of this program is NOT allowed without the author's expressive consent.
+"""
 # __author__ = "Zenith"
 # __email__ = "zenith @ rockstone . me"
 
